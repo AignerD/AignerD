@@ -12,17 +12,13 @@
 - Web development with frameworks like Flask and Django
 
 ## 💬 Let’s Chat About
-- Python fundamentals and tips for getting started
+- Python tips
 - Resources for lifelong learning in tech
 - Favorite tech reads, podcasts, and documentaries
 
 ## 📫 How to Reach Me
 - **Email:** [DylanAigner@gmail.com](mailto:DylanAigner@gmail.com)
 
-## ✨ Fun Facts
-- I love solving puzzles—whether they're on a screen or on paper.
-- When I'm not coding, you might find me binge watching, gaming, or tinkering with new gadgets.
-
 ---
 
-Thanks for stopping by! Feel free to explore, open an issue, or drop me a line. Let’s build something awesome together.
+Thanks for stopping by! Feel free to explore, open an issue, or drop me an email. Let’s build something awesome together.
