@@ -21,7 +21,7 @@
 
 ## ✨ Fun Facts
 - I love solving puzzles—whether they're on a screen or on paper.
-- When I'm not coding, you might find me hiking, reading, or tinkering with new gadgets.
+- When I'm not coding, you might find me binge watching, gaming, or tinkering with new gadgets.
 
 ---
 
