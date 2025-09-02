@@ -17,7 +17,7 @@
 - Favorite tech reads, podcasts, and documentaries
 
 ## 📫 How to Reach Me
-- **Email:** [Dylsack@gmail.com](mailto:Dylsack@gmail.com)
+- **Email:** [DylanAigner@gmail.com](mailto:DylanAigner@gmail.com)
 
 ## ✨ Fun Facts
 - I love solving puzzles—whether they're on a screen or on paper.
