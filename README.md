@@ -3,12 +3,13 @@
 
 ## 🔭 What I'm Working On
 - Building small tools and scripts that solve everyday problems
-- Collaborating on projects to sharpen my skills and learn from others
-- Exploring ways to write cleaner, more maintainable Python
+- Building my knowledge and skills in new technologies
+- Exploring ways to write cleaner, more maintainable code.
 
 ## 🌱 Currently Learning
-- Python best practices and design patterns
-- Testing strategies and automation
+- Docker & Containerization
+- Automation & Integrations
+- FastAPI & API creation
 - Web development with frameworks like Flask and Django
 
 ## 💬 Let’s Chat About
@@ -21,4 +22,4 @@
 
 ---
 
-Thanks for stopping by! Feel free to explore, open an issue, or drop me an email. Let’s build something awesome together.
+Thanks for stopping by! Feel free to explore, open an issue, or drop me an email.
